@@ -75,6 +75,7 @@ main {
 }
 
 .movie img {
+    height: 480px;
     width: 100%;
 }
 
@@ -85,7 +86,7 @@ main {
 }
 
 .container {
-    height: 75px;
+    height: 125px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -95,6 +96,7 @@ main {
 
 .movie-info h3 {
     margin-top: 0;
+    margin-right: 1rem;
 }
 
 .movie-info span {
